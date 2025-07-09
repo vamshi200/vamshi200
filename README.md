@@ -164,7 +164,7 @@ I'm a passionate developer building **cloud-native applications**, automating pi
 ## 🧠 Let's Connect
 
 - 📫 Email: vammshi0204@gmail.com  
-- 📍 Location:United states of America
+- 📍 Location: USA
 - 🔗 [LinkedIn](https://www.linkedin.com/in/vamshi-kardhanoori/)  
 - 🌐 Portfolio: *Coming Soon*
 
