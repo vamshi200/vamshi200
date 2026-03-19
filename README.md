@@ -5,7 +5,7 @@
 <h1 align="center">Hey, I'm Raghuvamshi Kardhanoori 👨‍💻</h1>
 
 <p align="center">
-  🎓 Master’s Student | 💻 Software Engineering Enthusiast | ☁️ Cloud & Data Engineer  
+  🎓 Master’s Student | 💻 Software Engineering Enthusiast | ☁️ Cloud & Machine Learning Engineer  
 </p>
 
 <p align="center">
